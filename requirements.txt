@@ -1,0 +1,25 @@
+# Environment
+python-dotenv
+
+# Database
+sqlalchemy>=2.0
+psycopg2-binary
+
+# ChEMBL data retrieval
+chembl_webresource_client
+
+# Data 
+pandas
+numpy
+
+# Modeling
+scikit-learn
+tensorflow
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks
+notebook
+ipykernel
